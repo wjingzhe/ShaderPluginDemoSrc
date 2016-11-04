@@ -18,3 +18,5 @@
 *.log
 /Debug/
 /Build/
+/x64/
+/DerivedDataCache/
